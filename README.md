@@ -1,1 +1,1 @@
-###My onw Google Search, Google Image Search and Google Advanced Search
+### My own Google Search, Google Image Search and Google Advanced Search
